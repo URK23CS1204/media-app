@@ -17,4 +17,4 @@ This experiment demonstrates how to use assets and media in Flutter. Images are 
 
 ## Output
 
-![Flutter Media App](assets/images/flutter.png)
+![Flutter Media App](output.png)
